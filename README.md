@@ -1,2 +1,3 @@
 # react-list
-Created with CodeSandbox
+ A To-Do list made using react
+ 
